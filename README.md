@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samiksha Rana</h1>
 
 <h3 align="center">
-AI & Deep Learning Undergraduate • Machine Learning Enthusiast • Open Source Contributor
+AI & Deep Learning Undergraduate • Machine Learning Enthusiast 
 </h3>
 
 <p align="center">
