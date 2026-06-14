@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samiksha Rana</h1>
 <h3 align="center">AI & Deep Learning Undergraduate | ML Enthusiast | Open Source Contributor</h3>
-
-<p align="center">
-  <a href="YOUR_LINKEDIN">LinkedIn</a> •
-  <a href="YOUR_PORTFOLIO">Portfolio</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a>
 </p>
 
 ---
@@ -46,13 +41,3 @@ Git • GitHub • Jupyter
 🔹 Bank Queue Management System
 
 ---
-
-## 📊 GitHub Stats
-
-(stats cards)
-
----
-
-## 🤝 Connect With Me
-
-(links)
