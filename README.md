@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Samiksha%20Rana&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Deep%20Learning%20%E2%80%A2%20ML%20Enthusiast%20%E2%80%A2%20Open%20Source&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Samiksha%20Rana&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Deep%20Learning%20%E2%80%A2%20ML%20Enthusiast%20%E2%80%A2%20IEEE%20WIE&descAlignY=55&descSize=16"/>
 
 <a href="https://www.linkedin.com/in/samiksha-rana1/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
@@ -14,7 +14,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=B.Tech+CSE+%7C+AI+%26+Deep+Learning+%F0%9F%A4%96;Machine+Learning+%7C+NLP+%7C+DSA+%F0%9F%93%9A;IEEE+WIE+Secretary+%7C+GSSoC+Contributor+%F0%9F%9A%80;Building+AI+projects+one+commit+at+a+time+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=B.Tech+CSE+%7C+AI+%26+Deep+Learning+%F0%9F%A4%96;Machine+Learning+%7C+NLP+%7C+DSA+%F0%9F%93%9A;IEEE+WIE+Secretary+%F0%9F%9A%80;Building+AI+projects+one+commit+at+a+time+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
@@ -28,8 +28,7 @@ class SamikshaRana:
         self.university  = "Mody University of Science & Technology"
         self.degree      = "B.Tech CSE — AI & Deep Learning"
         self.location    = "India 🇮🇳"
-        self.roles       = ["Secretary @ IEEE Women in Engineering",
-                            "Open Source Contributor @ GSSoC"]
+        self.roles       = ["Secretary @ IEEE Women in Engineering"]
         self.learning    = ["Machine Learning", "NLP", "DSA"]
         self.passion     = "Turning data into decisions 🔍"
 
@@ -38,7 +37,7 @@ class SamikshaRana:
 
 me = SamikshaRana()
 me.say_hi()
-```
+` ` `
 
 ---
 
@@ -165,10 +164,9 @@ me.say_hi()
 🔭  Currently exploring  →  Machine Learning & NLP pipelines
 🌱  Currently learning   →  Deep Learning, DSA & Advanced Python
 👩‍💼  Role               →  Secretary, IEEE Women in Engineering
-🚀  Open Source         →  Active contributor @ GSSoC
 💡  Ask me about        →  Python, ML, Data Analysis, NLP
 📬  Reach me at         →  samiksha.rana.019@gmail.com
-```
+` ` `
 
 ---
 
