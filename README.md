@@ -132,24 +132,6 @@ me.say_hi()
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=smiiksha&theme=tokyonight&no-frame=true&margin-w=10&column=6)
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smiiksha&theme=tokyo-night&bg_color=0D1117&color=A78BFA&line=A78BFA&point=FF6B6B&hide_border=true"/>
-</div>
-
----
-
 ## 🌟 What I'm Up To
 
 ```
