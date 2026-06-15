@@ -3,18 +3,18 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Samiksha%20Rana&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Deep%20Learning%20%E2%80%A2%20ML%20Enthusiast%20%E2%80%A2%20IEEE%20WIE&descAlignY=55&descSize=16"/>
 
 <a href="https://www.linkedin.com/in/samiksha-rana1/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:samiksha.rana.019@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=smiiksha&style=for-the-badge&color=blueviolet&label=Profile+Views"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=B.Tech+CSE+%7C+AI+%26+Deep+Learning+%F0%9F%A4%96;Machine+Learning+%7C+NLP+%7C+DSA+%F0%9F%93%9A;IEEE+WIE+Secretary+%F0%9F%9A%80;Building+AI+projects+one+commit+at+a+time+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%7C+AI+%26+Deep+Learning+%F0%9F%A4%96;Machine+Learning+%7C+NLP+%7C+DSA+%F0%9F%93%9A;IEEE+WIE+Secretary+%F0%9F%9A%80;Building+AI+projects+one+commit+at+a+time+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
@@ -37,7 +37,7 @@ class SamikshaRana:
 
 me = SamikshaRana()
 me.say_hi()
-` ` `
+```
 
 ---
 
@@ -76,9 +76,7 @@ me.say_hi()
   <tr>
     <td width="50%">
       <h3 align="center">🎯 Sentiment Analysis & Return Prediction</h3>
-      <p align="center">
-        NLP-powered system analyzing user sentiment from reviews to predict product returns. Built with Python, NLTK & Scikit-Learn.
-      </p>
+      <p align="center">NLP-powered system analyzing user sentiment from reviews to predict product returns. Built with Python, NLTK & Scikit-Learn.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/NLP-4CAF50?style=flat-square"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -87,9 +85,7 @@ me.say_hi()
     </td>
     <td width="50%">
       <h3 align="center">🏠 House Price Prediction Model</h3>
-      <p align="center">
-        ML regression model to predict real estate prices using feature engineering, EDA, and ensemble techniques.
-      </p>
+      <p align="center">ML regression model to predict real estate prices using feature engineering, EDA, and ensemble techniques.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Regression-0077B5?style=flat-square"/>
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
@@ -100,9 +96,7 @@ me.say_hi()
   <tr>
     <td width="50%">
       <h3 align="center">🏦 Bank Queue Management System</h3>
-      <p align="center">
-        Intelligent queuing system designed to optimize customer wait times and branch efficiency using data-driven logic.
-      </p>
+      <p align="center">Intelligent queuing system to optimize customer wait times and branch efficiency using data-driven logic.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
         <img src="https://img.shields.io/badge/DSA-FF4B4B?style=flat-square"/>
@@ -110,9 +104,7 @@ me.say_hi()
     </td>
     <td width="50%">
       <h3 align="center">🔮 Coming Soon...</h3>
-      <p align="center">
-        More NLP & Machine Learning projects in the pipeline. Stay tuned for exciting builds! 🚧
-      </p>
+      <p align="center">More NLP & Machine Learning projects in the pipeline. Stay tuned! 🚧</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square"/>
       </p>
@@ -166,7 +158,7 @@ me.say_hi()
 👩‍💼  Role               →  Secretary, IEEE Women in Engineering
 💡  Ask me about        →  Python, ML, Data Analysis, NLP
 📬  Reach me at         →  samiksha.rana.019@gmail.com
-` ` `
+```
 
 ---
 
