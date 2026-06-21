@@ -23,7 +23,7 @@
 ## 🧠 About Me
 
 ```python
-class SamikshaRana:
+class Samiksha:
     def __init__(self):
         self.university  = "Mody University of Science & Technology"
         self.degree      = "B.Tech CSE — AI & Deep Learning"
@@ -35,7 +35,7 @@ class SamikshaRana:
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together 🚀")
 
-me = SamikshaRana()
+me = Samiksha()
 me.say_hi()
 ```
 
