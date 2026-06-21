@@ -27,7 +27,7 @@ class SamikshaRana:
     def __init__(self):
         self.university  = "Mody University of Science & Technology"
         self.degree      = "B.Tech CSE — AI & Deep Learning"
-        self.location    = "India 🇮🇳"
+        self.location    = "India"
         self.roles       = ["Secretary @ IEEE Women in Engineering"]
         self.learning    = ["Machine Learning", "NLP", "DSA"]
         self.passion     = "Turning data into decisions 🔍"
