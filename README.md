@@ -136,8 +136,8 @@ me.say_hi()
 
 ```
 🔭  Currently exploring  →  Machine Learning & NLP pipelines
-🌱  Currently learning   →  Deep Learning, DSA & Advanced Python
-👩‍💼  Role               →  Secretary, IEEE Women in Engineering
+🌱  Currently learning   →  Deep Learning, DSA, Advanced Python, RAG pipelines
+👩‍💼  Role               →  Secretary, IEEE Women in Engineering @MODY UNIVERSITY OF SCIENCE AND TECHNOLOGY
 💡  Ask me about        →  Python, ML, Data Analysis, NLP
 📬  Reach me at         →  samiksha.rana.019@gmail.com
 ```
