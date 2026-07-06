@@ -95,11 +95,14 @@ me.say_hi()
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🏦 Bank Queue Management System</h3>
-      <p align="center">Intelligent queuing system to optimize customer wait times and branch efficiency using data-driven logic.</p>
+      <h3 align="center">📐 Mathematical Structure Visualizer</h3>
+      <p align="center">Java + Swing + SQLite desktop app to draw, calculate, and save mathematical shapes like circles, squares, rectangles & cones.</p>
       <p align="center">
+        <a href="https://github.com/smiiksha/Mathematical-structure-visualizer">
+          <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/>
+        </a>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/DSA-FF4B4B?style=flat-square"/>
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
       </p>
     </td>
     <td width="50%">
