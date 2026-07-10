@@ -41,6 +41,38 @@ me.say_hi()
 
 ---
 
+## 💼 Experience
+
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <h3>🏢 AI/ML Intern — DecodeLabs</h3>
+      <p>
+        Built multiple AI/ML projects end-to-end during the internship:
+        <ul>
+          <li>🤖 <b>AI Chatbot</b> — Conversational chatbot built in Python (v1 & v2)</li>
+          <li>🌸 <b>Iris Classifier</b> — ML model to classify iris species using Scikit-Learn</li>
+          <li>🎯 <b>Tech Stack Recommender</b> — Content-based recommendation engine using TF-IDF Vectorization & Cosine Similarity (pure Python, no ML libraries)</li>
+          <li>📊 <b>Model Comparison</b> — Benchmarked multiple ML models on classification tasks</li>
+        </ul>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NLP-4CAF50?style=flat-square"/>
+        <img src="https://img.shields.io/badge/TF--IDF-A78BFA?style=flat-square"/>
+        <a href="https://github.com/smiiksha/DecodeLabs-internship">
+          <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
