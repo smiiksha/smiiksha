@@ -1,16 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Samiksha%20Rana&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Deep%20Learning%20%E2%80%A2%20ML%20Enthusiast%20%E2%80%A2%20IEEE%20WIE&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Samiksha%20Rana%20%E2%9C%A8&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%26%20Deep%20Learning%20%E2%80%A2%20ML%20Enthusiast%20%E2%80%A2%20IEEE%20WIE&descAlignY=55&descSize=16"/>
 
-<a href="https://www.linkedin.com/in/samiksha-rana1/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/samiksha-rana1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:samiksha.rana.019@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</div>
+
+<br/>
+
+<a href="https://github.com/smiiksha">
+  <img src="https://komarev.com/ghpvc/?username=smiiksha&style=flat-square&color=A78BFA&label=Profile+Views"/>
 </a>
-&nbsp;
-<a href="mailto:samiksha.rana.019@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=smiiksha&style=for-the-badge&color=blueviolet&label=Profile+Views"/>
 
 <br/>
 
@@ -20,7 +21,7 @@
 
 ---
 
-## 🧠 About Me
+## 👩🏻‍💻 About Me
 
 ```python
 class Samiksha:
@@ -29,170 +30,11 @@ class Samiksha:
         self.degree      = "B.Tech CSE - AI & Deep Learning"
         self.location    = "India"
         self.roles       = ["Secretary @ IEEE Women in Engineering"]
-        self.learning    = ["Machine Learning", "NLP", "DSA"]
-        self.passion     = "Turning data into decisions 🔍"
+        self.learning    = ["Machine Learning", "NLP", "DSA", "Deep Learning"]
+        self.passion     = "Turning data into intelligent decisions 🔍"
 
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🚀")
+        return "Thanks for dropping by! Let's build something amazing together 🚀"
 
 me = Samiksha()
-me.say_hi()
-```
-
----
-
-## 💼 Experience
-
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <h3>🏢 AI/ML Intern — DecodeLabs</h3>
-      <p>
-        Built multiple AI/ML projects end-to-end during the internship:
-        <ul>
-          <li>🤖 <b>AI Chatbot</b> — Conversational chatbot built in Python (v1 & v2)</li>
-          <li>🌸 <b>Iris Classifier</b> — ML model to classify iris species using Scikit-Learn</li>
-          <li>🎯 <b>Tech Stack Recommender</b> — Content-based recommendation engine using TF-IDF Vectorization & Cosine Similarity (pure Python, no ML libraries)</li>
-          <li>📊 <b>Model Comparison</b> — Benchmarked multiple ML models on classification tasks</li>
-        </ul>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-        <img src="https://img.shields.io/badge/NLP-4CAF50?style=flat-square"/>
-        <img src="https://img.shields.io/badge/TF--IDF-A78BFA?style=flat-square"/>
-        <a href="https://github.com/smiiksha/DecodeLabs-internship">
-          <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### ML & Data Science
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-4CAF50?style=for-the-badge&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🎯 Sentiment Analysis & Return Prediction</h3>
-      <p align="center">NLP-powered system analyzing user sentiment from reviews to predict product returns. Built with Python, NLTK & Scikit-Learn.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/NLP-4CAF50?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🏠 House Price Prediction Model</h3>
-      <p align="center">ML regression model to predict real estate prices using feature engineering, EDA, and ensemble techniques.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Regression-0077B5?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">📐 Mathematical Structure Visualizer</h3>
-      <p align="center">Java + Swing + SQLite desktop app to draw, calculate, and save mathematical shapes like circles, squares, rectangles & cones.</p>
-      <p align="center">
-        <a href="https://github.com/smiiksha/Mathematical-structure-visualizer">
-          <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/>
-        </a>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🔮 Coming Soon...</h3>
-      <p align="center">More NLP & Machine Learning projects in the pipeline. Stay tuned! 🚧</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square"/>
-      </p>
-    </td>
-  </tr>
-</table>
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smiiksha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smiiksha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smiiksha&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smiiksha&theme=tokyonight"/>
-</div>
-
----
-
-## 🌟 What I'm Up To
-
-```
-🔭  Currently exploring  →  Machine Learning & NLP pipelines
-🌱  Currently learning   →  Deep Learning, DSA, Advanced Python, RAG pipelines
-👩‍💼  Role               →  Secretary, IEEE Women in Engineering @MODY UNIVERSITY OF SCIENCE AND TECHNOLOGY
-💡  Ask me about        →  Python, ML, Data Analysis, NLP
-📬  Reach me at         →  samiksha.rana.019@gmail.com
-```
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/samiksha-rana1/">
-  <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:samiksha.rana.019@gmail.com">
-  <img src="https://img.shields.io/badge/Drop_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Building%20AI%20%E2%80%94%20one%20commit%20at%20a%20time%20%E2%9C%A8&fontSize=18&fontColor=fff&animation=twinkling&fontAlignY=65"/>
-
-</div>
+print(me.say_hi())
