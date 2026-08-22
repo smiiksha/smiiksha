@@ -31,10 +31,10 @@ class Samiksha:
         self.location    = "India"
         self.roles       = ["Secretary @ IEEE Women in Engineering"]
         self.learning    = ["Machine Learning", "NLP", "DSA", "Deep Learning"]
-        self.passion     = "Turning data into intelligent decisions 🔍"
+        self.passion     = "Turning data into intelligent decisions"
 
     def say_hi(self):
-        return "Thanks for dropping by! Let's build something amazing together 🚀"
+        return "Thanks for dropping by! Let's build something amazing together"
 
 me = Samiksha()
 print(me.say_hi())
