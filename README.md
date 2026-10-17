@@ -8,9 +8,6 @@
 <!-- Social Badges -->
 <a href="https://www.linkedin.com/in/samiksha-rana1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:samiksha.rana.019@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<!-- TODO: replace RESUME_LINK with your Drive/PDF link, or delete this badge -->
-<a href="RESUME_LINK"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=google-docs&logoColor=white"/></a>
-
 <br/><br/>
 
 <!-- Profile Views -->
@@ -30,11 +27,7 @@
 
 I'm based in **India** and passionate about turning data into intelligent decisions.
 
-Currently building:
-- **RAG-based Research Paper QA**: retrieval-augmented QA over research papers
-- **MASS (Multi-Agent Strategy Simulation)**: multi-agent simulation project
-
-🏆 Top 10% nationally in **Amazon ML Challenge 2026**
+🏆 Top 3% nationally in **Amazon ML Challenge 2026**
 
 My technical playground: **Python**, **Machine Learning**, **NLP**, **Deep Learning**, and **DSA**.
 
@@ -42,8 +35,7 @@ Off the keyboard, I serve as **Secretary @ IEEE Women in Engineering** 🚀
 
     </td>
     <td width="35%" align="center" valign="middle">
-      <!-- TODO: upload a planet image to the repo as planet.png -->
-      <img src="planet.png" width="100%" alt="planet"/>
+      <img src="planet.svg" width="100%" alt="planet"/>
     </td>
   </tr>
 </table>
@@ -59,7 +51,6 @@ class Samiksha:
         self.degree     = "B.Tech CSE - AI & Deep Learning"
         self.location   = "India"
         self.roles      = ["Secretary @ IEEE Women in Engineering"]
-        self.building   = ["RAG Research Paper QA", "MASS"]
         self.learning   = ["Machine Learning", "NLP", "DSA", "Deep Learning"]
         self.passion    = "Turning data into intelligent decisions"
 
@@ -88,3 +79,5 @@ print(me.say_hi())
   <img src="https://github-readme-stats.vercel.app/api?username=smiiksha&show_icons=true&theme=radical&hide_border=true" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=smiiksha&theme=radical&hide_border=true" height="160"/>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
